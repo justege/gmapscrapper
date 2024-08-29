@@ -1,4 +1,4 @@
-# Google Maps Data Scraper
+# Google Maps Data Scraper (Code is extention of the following video: https://www.youtube.com/watch?v=tp_B5tpJS3c)
 
 ## Overview
 
